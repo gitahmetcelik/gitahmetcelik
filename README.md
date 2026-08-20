@@ -1,8 +1,13 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Ahmet%20%C3%87elik&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Backend%20%C2%B7%20Game%20Dev%20%C2%B7%20Mobile&descAlignY=55&descSize=18&descColor=e8eefc" />
+</div>
 
-# Merhaba, ben Ahmet 👋 &nbsp;|&nbsp; Hi, I'm Ahmet
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Game+Developer+%7C+Unity+%26+C%23;Mobile+Developer+%7C+Flutter+%26+Dart;Sa%C4%9Flam+ve+%C3%B6l%C3%A7eklenebilir+sistemler+kuruyorum)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=gitahmetcelik&color=2f81f7&style=flat-square&label=Profil+Ziyareti)
+![Followers](https://img.shields.io/github/followers/gitahmetcelik?label=Takip%C3%A7i&style=flat-square&color=2f81f7&logo=github&logoColor=white)
 
 </div>
 
@@ -18,7 +23,7 @@ I build resilient, observable backend systems with Java/Spring Boot, design game
 and explore mobile app development with Flutter. Always working on something new.
 </sub>
 
----
+<br clear="both">
 
 ### 🧩 Şu An Üzerinde Çalıştıklarım / Currently Building
 
@@ -31,47 +36,46 @@ and explore mobile app development with Flutter. Always working on something new
 
 <sub>Bu projelerin büyük kısmı şu an özel (private) depolarda geliştiriliyor.</sub>
 
----
+<br clear="both">
 
 ### 🛠️ Teknolojiler / Tech Stack
 
-**Backend**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,rabbitmq,flutter,dart,unity,cs,git,docker,githubactions&theme=dark" />
 
-**Mobil / Mobile**
+</div>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**Oyun Geliştirme / Game Development**
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-**Araçlar / Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
+<br clear="both">
 
 ### 📊 GitHub İstatistikleri / Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gitahmetcelik&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitahmetcelik&layout=compact&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gitahmetcelik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=2f81f7&icon_color=2f81f7" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gitahmetcelik&theme=tokyonight&hide_border=true&ring=2f81f7&fire=2f81f7" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gitahmetcelik&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitahmetcelik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=2f81f7" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=gitahmetcelik&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7" />
 
 </div>
 
----
+<br clear="both">
+
+### 🐍 Katkı Grafiği / Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gitahmetcelik/gitahmetcelik/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gitahmetcelik/gitahmetcelik/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/gitahmetcelik/gitahmetcelik/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br clear="both">
 
 ### 📫 İletişim / Connect
 
@@ -85,3 +89,5 @@ and explore mobile app development with Flutter. Always working on something new
 <div align="center">
 <sub>⭐ Bu profili beğendiysen bir yıldız bırakabilirsin.</sub>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" />
