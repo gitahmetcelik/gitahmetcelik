@@ -52,14 +52,20 @@ and explore mobile app development with Flutter. Always working on something new
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gitahmetcelik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=2f81f7&icon_color=2f81f7" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gitahmetcelik&theme=tokyonight&hide_border=true&ring=2f81f7&fire=2f81f7" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitahmetcelik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=2f81f7" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=gitahmetcelik&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gitahmetcelik&theme=tokyonight&hide_border=true&ring=2f81f7&fire=2f81f7" />
 
 </div>
+
+<!--
+  Not: github-readme-stats.vercel.app (istatistik kartı, top-langs) ve
+  github-profile-trophy.vercel.app şu an bakımcılarının paylaşılan sunucusunda
+  kota/ödeme sorunu nedeniyle devre dışı (DEPLOYMENT_PAUSED / DEPLOYMENT_DISABLED).
+  Servisler geri geldiğinde veya kendi Vercel hesabına self-host edildiğinde
+  aşağıdaki satırları geri eklemek yeterli:
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gitahmetcelik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitahmetcelik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gitahmetcelik&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7" />
+-->
 
 <br clear="both">
 
