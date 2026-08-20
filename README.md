@@ -58,7 +58,7 @@ and explore mobile app development with Flutter. Always working on something new
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gitahmetcelik&theme=tokyonight&hide_border=true&ring=2f81f7&fire=2f81f7" />
+<img src="https://streak-stats.demolab.com/?user=gitahmetcelik&theme=tokyonight&hide_border=true&ring=2f81f7&fire=2f81f7" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gitahmetcelik&theme=react-dark&hide_border=true&area=true&color=2f81f7&line=2f81f7&point=ffffff" />
 
