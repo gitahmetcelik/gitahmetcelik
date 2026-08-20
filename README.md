@@ -29,12 +29,18 @@ and explore mobile app development with Flutter. Always working on something new
 
 | Proje | Açıklama |
 |---|---|
-| ⚙️ **Görev Motoru** | Spring Boot üzerinde, Postgres + RabbitMQ ile çalışan dayanıklı ve gözlemlenebilir asenkron görev motoru |
-| 🛒 **E-Commerce Hub** | Java/Spring Boot tabanlı e-ticaret backend platformu |
-| 🔗 **Webhook Platformu** | Güvenilir webhook teslimatı için Spring Boot servisi |
+| ⚙️ **[Görev Motoru](https://github.com/gitahmetcelik/gorev-motoru)** | Spring Boot üzerinde, Postgres + RabbitMQ ile çalışan dayanıklı ve gözlemlenebilir asenkron görev motoru |
+| 🛒 **[E-Commerce Hub](https://github.com/gitahmetcelik/ecommerce-hub)** | Java/Spring Boot tabanlı e-ticaret backend platformu |
+| 🔗 **[Webhook Platformu](https://github.com/gitahmetcelik/webhook-platformu)** | Güvenilir webhook teslimatı için Spring Boot servisi |
 | 🚐 **Caravan** | Unity/C# ile geliştirilen, hikâye odaklı metin tabanlı bir yaşam-yolu RPG'si |
 
-<sub>Bu projelerin büyük kısmı şu an özel (private) depolarda geliştiriliyor.</sub>
+<p align="center">
+  <a href="https://github.com/gitahmetcelik/gorev-motoru"><img src="https://img.shields.io/github/stars/gitahmetcelik/gorev-motoru?style=flat-square&color=2f81f7&label=%E2%AD%90%20gorev-motoru" /></a>
+  <a href="https://github.com/gitahmetcelik/ecommerce-hub"><img src="https://img.shields.io/github/last-commit/gitahmetcelik/ecommerce-hub?style=flat-square&color=2f81f7&label=ecommerce-hub" /></a>
+  <a href="https://github.com/gitahmetcelik/webhook-platformu"><img src="https://img.shields.io/github/last-commit/gitahmetcelik/webhook-platformu?style=flat-square&color=2f81f7&label=webhook-platformu" /></a>
+</p>
+
+<sub>Caravan şu an özel (private) bir depoda geliştiriliyor.</sub>
 
 <br clear="both">
 
@@ -53,6 +59,8 @@ and explore mobile app development with Flutter. Always working on something new
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitahmetcelik&theme=tokyonight&hide_border=true&ring=2f81f7&fire=2f81f7" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gitahmetcelik&theme=react-dark&hide_border=true&area=true&color=2f81f7&line=2f81f7&point=ffffff" />
 
 </div>
 
@@ -78,6 +86,8 @@ and explore mobile app development with Flutter. Always working on something new
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gitahmetcelik/gitahmetcelik/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/gitahmetcelik/gitahmetcelik/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<sub>Yılan, katkı geçmişimi "yiyerek" ilerliyor — katkılar arttıkça daha uzun ve renkli hale gelecek 🐍</sub>
 
 </div>
 
